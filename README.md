@@ -1,2 +1,3 @@
 # UTS_MOBILE
-![GAMBAR1](TUGAS MOBILE/Home Screen 1.png)
+<img src="TUGAS MOBILE/Home Screen 1.png" alt="Deskripsi Gambar">
+

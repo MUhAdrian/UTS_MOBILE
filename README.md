@@ -1,4 +1,7 @@
 # UTS_MOBILE
-<img src="TUGAS MOBILE/Home Screen 1.png" alt="Deskripsi Gambar">
-<img src="TUGAS MOBILE/P.png" alt="Deskripsi Gambar">
-
+<img src="UI UX/1.jpg" alt="Deskripsi Gambar" > </br>
+<img src="UI UX/2.jpg" alt="Deskripsi Gambar" > </br>
+<img src="UI UX/3.jpg" alt="Deskripsi Gambar" > </br>
+<img src="UI UX/4.jpg" alt="Deskripsi Gambar" > </br>
+<img src="UI UX/5.jpg" alt="Deskripsi Gambar" > </br>
+<img src="UI UX/6.jpg" alt="Deskripsi Gambar" > </br>
